@@ -1,4 +1,4 @@
-"State Name","county Name","State Code","County Code","Date","AQI","Category","Defining Parameter","Defining Site","Number of Sites Reporting"
+"State","county Name","State Code","County Code","Date","AQI","Category","Defining Parameter","Defining Site","Number of Sites Reporting"
 "California","Nevada","06","057","2019-01-03",53,"Moderate","PM2.5","06-057-0005",2
 "California","Nevada","06","057","2019-01-04",40,"Good","PM2.5","06-057-0005",1
 "California","Nevada","06","057","2019-01-05",39,"Good","Ozone","06-057-0005",1
