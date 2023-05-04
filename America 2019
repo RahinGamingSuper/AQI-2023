@@ -1,0 +1,1092 @@
+"State Name","county Name","State Code","County Code","Date","AQI","Category","Defining Parameter","Defining Site","Number of Sites Reporting"
+"California","Nevada","06","057","2019-01-03",53,"Moderate","PM2.5","06-057-0005",2
+"California","Nevada","06","057","2019-01-04",40,"Good","PM2.5","06-057-0005",1
+"California","Nevada","06","057","2019-01-05",39,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-01-06",38,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-01-07",35,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-01-08",34,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-01-09",36,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-01-10",36,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-01-11",38,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-01-12",38,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-01-13",41,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-01-14",41,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-01-15",59,"Moderate","PM2.5","06-057-1001",2
+"California","Nevada","06","057","2019-01-16",40,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-01-17",40,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-01-18",35,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-01-19",27,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-01-20",38,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-01-21",34,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-01-22",34,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-01-23",38,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-01-24",38,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-01-25",44,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-01-26",43,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-01-27",41,"Good","Ozone","06-057-1001",2
+"California","Nevada","06","057","2019-01-28",31,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-01-29",51,"Moderate","PM2.5","06-057-0005",1
+"California","Nevada","06","057","2019-01-30",58,"Moderate","PM2.5","06-057-0005",2
+"California","Nevada","06","057","2019-01-31",59,"Moderate","PM2.5","06-057-0005",1
+"California","Nevada","06","057","2019-02-01",48,"Good","PM2.5","06-057-0005",1
+"California","Nevada","06","057","2019-02-02",41,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-02-03",39,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-02-04",39,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-02-05",38,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-02-06",40,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-02-07",40,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-02-08",43,"Good","PM2.5","06-057-1001",2
+"California","Nevada","06","057","2019-02-09",41,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-02-10",41,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-02-11",65,"Moderate","PM2.5","06-057-1001",2
+"California","Nevada","06","057","2019-02-12",43,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-02-13",43,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-02-14",43,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-02-15",43,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-02-16",37,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-02-17",37,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-02-18",39,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-02-19",39,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-02-20",40,"Good","PM2.5","06-057-0005",2
+"California","Nevada","06","057","2019-02-21",39,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-02-22",40,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-02-23",44,"Good","PM2.5","06-057-1001",2
+"California","Nevada","06","057","2019-02-24",47,"Good","PM2.5","06-057-0005",1
+"California","Nevada","06","057","2019-02-25",52,"Moderate","PM2.5","06-057-0005",1
+"California","Nevada","06","057","2019-02-26",42,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-02-27",41,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-02-28",41,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-01",31,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-03-02",31,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-03",34,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-04",33,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-03-05",35,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-06",41,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-07",38,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-03-08",37,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-09",38,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-10",42,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-03-11",45,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-12",45,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-13",46,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-03-14",48,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-15",49,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-16",50,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-03-17",48,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-18",50,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-19",50,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-03-20",46,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-21",44,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-22",44,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-23",47,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-24",46,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-25",45,"Good","PM2.5","06-057-0005",2
+"California","Nevada","06","057","2019-03-26",38,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-27",41,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-28",44,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-03-29",44,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-30",50,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-03-31",51,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-04-01",50,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-04-02",36,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-04-03",35,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-04-04",35,"Good","PM2.5","06-057-0005",1
+"California","Nevada","06","057","2019-04-05",36,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-04-06",41,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-04-07",32,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-04-08",36,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-04-09",45,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-04-10",45,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-04-11",47,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-04-12",12,"Good","PM2.5","06-057-1001",2
+"California","Nevada","06","057","2019-04-13",17,"Good","PM2.5","06-057-0005",1
+"California","Nevada","06","057","2019-04-14",22,"Good","PM2.5","06-057-0005",1
+"California","Nevada","06","057","2019-04-15",44,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-04-16",36,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-04-17",37,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-04-18",44,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-04-19",54,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-04-20",41,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-04-21",44,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-04-22",48,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-04-23",45,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-04-24",37,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-04-25",44,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-04-26",48,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-04-27",42,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-04-28",46,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-04-29",48,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-04-30",44,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-05-01",54,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-02",49,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-03",64,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-05-04",54,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-05",49,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-06",37,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-05-07",44,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-08",41,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-09",24,"Good","PM2.5","06-057-0005",2
+"California","Nevada","06","057","2019-05-10",50,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-11",54,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-12",48,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-05-13",45,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-14",42,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-15",38,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-05-16",40,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-17",34,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-18",41,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-05-19",45,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-20",44,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-21",36,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-05-22",28,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-23",30,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-24",47,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-05-25",44,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-26",38,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-27",33,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-05-28",38,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-29",50,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-05-30",61,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-05-31",49,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-01",67,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-02",49,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-06-03",47,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-04",46,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-05",64,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-06-06",44,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-07",37,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-08",48,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-06-09",47,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-10",61,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-11",77,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-12",90,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-13",74,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-14",77,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-06-15",49,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-16",48,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-17",47,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-06-18",64,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-19",112,"Unhealthy for Sensitive Groups","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-20",61,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-06-21",45,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-22",41,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-23",48,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-06-24",67,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-25",46,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-26",35,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-06-27",40,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-28",51,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-06-29",71,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-06-30",74,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-01",71,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-02",77,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-07-03",51,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-04",49,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-05",58,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-07-06",77,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-07",64,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-08",45,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-07-09",47,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-10",46,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-11",48,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-07-12",45,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-13",45,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-14",58,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-07-15",48,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-16",42,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-17",49,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-07-18",90,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-19",61,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-20",49,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-07-21",45,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-22",90,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-23",49,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-07-24",51,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-25",105,"Unhealthy for Sensitive Groups","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-26",101,"Unhealthy for Sensitive Groups","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-07-27",80,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-28",47,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-29",64,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-07-30",93,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-07-31",84,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-01",90,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-08-02",80,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-03",61,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-04",58,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-08-05",71,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-06",77,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-07",100,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-08-08",51,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-09",44,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-10",32,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-08-11",39,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-12",46,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-13",58,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-08-14",80,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-15",54,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-16",119,"Unhealthy for Sensitive Groups","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-17",100,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-18",61,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-19",87,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-20",49,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-21",46,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-22",43,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-23",87,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-24",58,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-25",50,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-26",54,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-27",67,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-28",51,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-08-29",39,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-30",42,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-08-31",48,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-09-01",61,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-02",71,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-03",51,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-09-04",51,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-05",74,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-06",58,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-09-07",44,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-08",37,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-09",42,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-09-10",44,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-11",43,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-12",67,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-09-13",93,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-14",122,"Unhealthy for Sensitive Groups","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-15",67,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-09-16",34,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-17",42,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-18",30,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-09-19",30,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-20",35,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-21",38,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-09-22",47,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-23",45,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-24",39,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-09-25",37,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-26",61,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-27",35,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-09-28",29,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-29",30,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-09-30",33,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-10-01",32,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-02",37,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-03",44,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-10-04",37,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-05",41,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-06",47,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-07",80,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-08",77,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-09",16,"Good","PM2.5","06-057-1001",1
+"California","Nevada","06","057","2019-10-11",50,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-12",59,"Moderate","PM2.5","06-057-1001",2
+"California","Nevada","06","057","2019-10-13",80,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-14",80,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-15",77,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-10-16",74,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-17",39,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-18",40,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-10-19",33,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-20",37,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-21",44,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-10-22",44,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-24",41,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-10-25",47,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-26",15,"Good","PM2.5","06-057-0005",1
+"California","Nevada","06","057","2019-10-27",13,"Good","PM2.5","06-057-1001",1
+"California","Nevada","06","057","2019-10-28",43,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-29",43,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-10-30",46,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-10-31",44,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-01",50,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-02",48,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-11-03",48,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-04",64,"Moderate","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-05",51,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-11-06",47,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-07",50,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-08",51,"Moderate","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-11-09",50,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-10",43,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-11",48,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-11-12",47,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-13",44,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-14",49,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-11-15",42,"Good","PM2.5","06-057-0005",1
+"California","Nevada","06","057","2019-11-16",41,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-17",43,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-11-18",44,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-19",44,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-20",83,"Moderate","PM2.5","06-057-1001",2
+"California","Nevada","06","057","2019-11-21",39,"Good","PM2.5","06-057-0005",1
+"California","Nevada","06","057","2019-11-22",39,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-23",37,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-11-24",37,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-25",40,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-26",39,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-11-27",33,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-28",31,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-11-29",46,"Good","PM2.5","06-057-0005",2
+"California","Nevada","06","057","2019-11-30",36,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-01",36,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-02",46,"Good","PM2.5","06-057-1001",2
+"California","Nevada","06","057","2019-12-03",37,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-04",34,"Good","PM2.5","06-057-0005",1
+"California","Nevada","06","057","2019-12-05",35,"Good","PM2.5","06-057-0005",2
+"California","Nevada","06","057","2019-12-06",35,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-07",39,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-08",39,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-12-09",38,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-10",48,"Good","PM2.5","06-057-0005",1
+"California","Nevada","06","057","2019-12-11",40,"Good","PM2.5","06-057-0005",2
+"California","Nevada","06","057","2019-12-12",32,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-13",33,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-14",32,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-12-15",39,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-16",40,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-17",37,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-18",39,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-19",33,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-20",36,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-12-21",36,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-22",39,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-23",32,"Good","Ozone","06-057-0005",2
+"California","Nevada","06","057","2019-12-24",35,"Good","PM2.5","06-057-0005",1
+"California","Nevada","06","057","2019-12-25",37,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-26",39,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-27",41,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-28",40,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-29",61,"Moderate","PM2.5","06-057-0005",1
+"California","Nevada","06","057","2019-12-30",37,"Good","Ozone","06-057-0005",1
+"California","Nevada","06","057","2019-12-31",44,"Good","PM2.5","06-057-0005",2
+"Illinois","Cook","17","031","2019-01-01",37,"Good","PM2.5","17-031-6005",11
+"Illinois","Cook","17","031","2019-01-02",50,"Good","PM2.5","17-031-0076",11
+"Illinois","Cook","17","031","2019-01-03",50,"Good","PM2.5","17-031-3103",12
+"Illinois","Cook","17","031","2019-01-04",48,"Good","PM2.5","17-031-4007",11
+"Illinois","Cook","17","031","2019-01-05",56,"Moderate","PM2.5","17-031-4007",12
+"Illinois","Cook","17","031","2019-01-06",35,"Good","PM2.5","17-031-6005",13
+"Illinois","Cook","17","031","2019-01-07",51,"Moderate","PM2.5","17-031-0076",11
+"Illinois","Cook","17","031","2019-01-08",52,"Moderate","PM2.5","17-031-6005",11
+"Illinois","Cook","17","031","2019-01-09",29,"Good","PM2.5","17-031-3103",13
+"Illinois","Cook","17","031","2019-01-10",42,"Good","NO2","17-031-3103",11
+"Illinois","Cook","17","031","2019-01-11",65,"Moderate","PM2.5","17-031-4201",10
+"Illinois","Cook","17","031","2019-01-12",67,"Moderate","PM2.5","17-031-0022",12
+"Illinois","Cook","17","031","2019-01-13",37,"Good","Ozone","17-031-4201",10
+"Illinois","Cook","17","031","2019-01-14",54,"Moderate","PM2.5","17-031-0076",10
+"Illinois","Cook","17","031","2019-01-15",53,"Moderate","PM2.5","17-031-3301",13
+"Illinois","Cook","17","031","2019-01-16",34,"Good","Ozone","17-031-4201",10
+"Illinois","Cook","17","031","2019-01-17",61,"Moderate","PM2.5","17-031-0022",10
+"Illinois","Cook","17","031","2019-01-18",58,"Moderate","PM2.5","17-031-3301",12
+"Illinois","Cook","17","031","2019-01-19",35,"Good","Ozone","17-031-4201",11
+"Illinois","Cook","17","031","2019-01-20",34,"Good","NO2","17-031-3103",11
+"Illinois","Cook","17","031","2019-01-21",64,"Moderate","PM2.5","17-031-0052",13
+"Illinois","Cook","17","031","2019-01-22",47,"Good","PM2.5","17-031-4201",10
+"Illinois","Cook","17","031","2019-01-23",52,"Moderate","PM2.5","17-031-6005",11
+"Illinois","Cook","17","031","2019-01-24",71,"Moderate","PM2.5","17-031-0022",11
+"Illinois","Cook","17","031","2019-01-25",40,"Good","NO2","17-031-3103",11
+"Illinois","Cook","17","031","2019-01-26",65,"Moderate","PM2.5","17-031-3301",12
+"Illinois","Cook","17","031","2019-01-27",64,"Moderate","PM2.5","17-031-0022",12
+"Illinois","Cook","17","031","2019-01-28",54,"Moderate","PM2.5","17-031-4007",11
+"Illinois","Cook","17","031","2019-01-29",31,"Good","Ozone","17-031-4201",12
+"Illinois","Cook","17","031","2019-01-30",38,"Good","PM2.5","17-031-3103",11
+"Illinois","Cook","17","031","2019-01-31",42,"Good","NO2","17-031-3103",9
+"Illinois","Cook","17","031","2019-02-01",69,"Moderate","NO2","17-031-4002",10
+"Illinois","Cook","17","031","2019-02-02",87,"Moderate","PM2.5","17-031-4007",13
+"Illinois","Cook","17","031","2019-02-03",60,"Moderate","PM2.5","17-031-4007",12
+"Illinois","Cook","17","031","2019-02-04",53,"Moderate","PM2.5","17-031-6005",12
+"Illinois","Cook","17","031","2019-02-05",52,"Moderate","PM2.5","17-031-0052",13
+"Illinois","Cook","17","031","2019-02-06",49,"Good","PM2.5","17-031-0001",11
+"Illinois","Cook","17","031","2019-02-07",39,"Good","PM2.5","17-031-6005",11
+"Illinois","Cook","17","031","2019-02-08",54,"Moderate","PM10","17-031-0022",13
+"Illinois","Cook","17","031","2019-02-09",41,"Good","PM2.5","17-031-6005",11
+"Illinois","Cook","17","031","2019-02-10",59,"Moderate","PM2.5","17-031-4201",11
+"Illinois","Cook","17","031","2019-02-11",69,"Moderate","PM2.5","17-031-1016",12
+"Illinois","Cook","17","031","2019-02-12",37,"Good","PM2.5","17-031-0001",11
+"Illinois","Cook","17","031","2019-02-13",48,"Good","PM2.5","17-031-4007",11
+"Illinois","Cook","17","031","2019-02-14",43,"Good","PM2.5","17-031-6005",12
+"Illinois","Cook","17","031","2019-02-15",48,"Good","PM2.5","17-031-4007",11
+"Illinois","Cook","17","031","2019-02-16",39,"Good","PM2.5","17-031-6005",11
+"Illinois","Cook","17","031","2019-02-17",42,"Good","PM2.5","17-031-1016",11
+"Illinois","Cook","17","031","2019-02-18",45,"Good","NO2","17-031-0076",10
+"Illinois","Cook","17","031","2019-02-19",76,"Moderate","NO2","17-031-3103",10
+"Illinois","Cook","17","031","2019-02-20",54,"Moderate","PM2.5","17-031-0022",12
+"Illinois","Cook","17","031","2019-02-21",62,"Moderate","PM2.5","17-031-4007",10
+"Illinois","Cook","17","031","2019-02-22",79,"Moderate","PM2.5","17-031-4007",10
+"Illinois","Cook","17","031","2019-02-23",75,"Moderate","PM2.5","17-031-1016",11
+"Illinois","Cook","17","031","2019-02-24",52,"Moderate","PM2.5","17-031-6005",10
+"Illinois","Cook","17","031","2019-02-25",37,"Good","NO2","17-031-0076",10
+"Illinois","Cook","17","031","2019-02-26",35,"Good","PM2.5","17-031-6005",12
+"Illinois","Cook","17","031","2019-02-27",57,"Moderate","PM2.5","17-031-4201",10
+"Illinois","Cook","17","031","2019-02-28",55,"Moderate","PM2.5","17-031-0001",10
+"Illinois","Cook","17","031","2019-03-01",63,"Moderate","PM2.5","17-031-3103",14
+"Illinois","Cook","17","031","2019-03-02",57,"Moderate","PM2.5","17-031-0119",15
+"Illinois","Cook","17","031","2019-03-03",40,"Good","Ozone","17-031-7002",15
+"Illinois","Cook","17","031","2019-03-04",51,"Moderate","PM10","17-031-0022",15
+"Illinois","Cook","17","031","2019-03-05",58,"Moderate","PM10","17-031-0022",15
+"Illinois","Cook","17","031","2019-03-06",55,"Moderate","PM10","17-031-0022",15
+"Illinois","Cook","17","031","2019-03-07",59,"Moderate","PM2.5","17-031-3103",17
+"Illinois","Cook","17","031","2019-03-08",82,"Moderate","PM2.5","17-031-0119",15
+"Illinois","Cook","17","031","2019-03-09",73,"Moderate","NO2","17-031-0076",15
+"Illinois","Cook","17","031","2019-03-10",51,"Moderate","PM2.5","17-031-6005",16
+"Illinois","Cook","17","031","2019-03-11",49,"Good","NO2","17-031-0119",15
+"Illinois","Cook","17","031","2019-03-12",74,"Moderate","NO2","17-031-4002",14
+"Illinois","Cook","17","031","2019-03-13",45,"Good","PM2.5","17-031-6005",16
+"Illinois","Cook","17","031","2019-03-14",71,"Moderate","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-03-15",41,"Good","Ozone","17-031-4007",16
+"Illinois","Cook","17","031","2019-03-16",45,"Good","NO2","17-031-4002",17
+"Illinois","Cook","17","031","2019-03-17",54,"Moderate","NO2","17-031-4002",15
+"Illinois","Cook","17","031","2019-03-18",65,"Moderate","PM2.5","17-031-0119",15
+"Illinois","Cook","17","031","2019-03-19",55,"Moderate","PM2.5","17-031-3103",17
+"Illinois","Cook","17","031","2019-03-20",64,"Moderate","PM2.5","17-031-0119",15
+"Illinois","Cook","17","031","2019-03-21",59,"Moderate","PM2.5","17-031-0119",15
+"Illinois","Cook","17","031","2019-03-22",44,"Good","Ozone","17-031-7002",17
+"Illinois","Cook","17","031","2019-03-23",59,"Moderate","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-03-24",56,"Moderate","PM2.5","17-031-0119",15
+"Illinois","Cook","17","031","2019-03-25",44,"Good","Ozone","17-031-4007",17
+"Illinois","Cook","17","031","2019-03-26",55,"Moderate","NO2","17-031-4002",15
+"Illinois","Cook","17","031","2019-03-27",52,"Moderate","NO2","17-031-4002",14
+"Illinois","Cook","17","031","2019-03-28",71,"Moderate","PM2.5","17-031-0119",17
+"Illinois","Cook","17","031","2019-03-29",46,"Good","PM2.5","17-031-0119",15
+"Illinois","Cook","17","031","2019-03-30",42,"Good","Ozone","17-031-7002",14
+"Illinois","Cook","17","031","2019-03-31",43,"Good","Ozone","17-031-7002",17
+"Illinois","Cook","17","031","2019-04-01",43,"Good","Ozone","17-031-4007",15
+"Illinois","Cook","17","031","2019-04-02",57,"Moderate","PM2.5","17-031-0119",15
+"Illinois","Cook","17","031","2019-04-03",59,"Moderate","PM2.5","17-031-4007",16
+"Illinois","Cook","17","031","2019-04-04",49,"Good","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-04-05",72,"Moderate","PM2.5","17-031-0001",15
+"Illinois","Cook","17","031","2019-04-06",97,"Moderate","PM2.5","17-031-3103",16
+"Illinois","Cook","17","031","2019-04-07",58,"Moderate","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-04-08",50,"Good","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-04-09",46,"Good","Ozone","17-031-4201",17
+"Illinois","Cook","17","031","2019-04-10",34,"Good","PM2.5","17-031-0119",15
+"Illinois","Cook","17","031","2019-04-11",48,"Good","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-04-12",40,"Good","Ozone","17-031-4002",17
+"Illinois","Cook","17","031","2019-04-13",49,"Good","Ozone","17-031-4002",16
+"Illinois","Cook","17","031","2019-04-14",41,"Good","Ozone","17-031-7002",15
+"Illinois","Cook","17","031","2019-04-15",45,"Good","Ozone","17-031-4201",16
+"Illinois","Cook","17","031","2019-04-16",51,"Moderate","Ozone","17-031-0001",15
+"Illinois","Cook","17","031","2019-04-17",63,"Moderate","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-04-18",52,"Moderate","PM2.5","17-031-6005",17
+"Illinois","Cook","17","031","2019-04-19",44,"Good","Ozone","17-031-7002",14
+"Illinois","Cook","17","031","2019-04-20",46,"Good","Ozone","17-031-7002",15
+"Illinois","Cook","17","031","2019-04-21",71,"Moderate","Ozone","17-031-4201",16
+"Illinois","Cook","17","031","2019-04-22",54,"Moderate","Ozone","17-031-7002",15
+"Illinois","Cook","17","031","2019-04-23",48,"Good","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-04-24",50,"Good","PM2.5","17-031-6005",17
+"Illinois","Cook","17","031","2019-04-25",61,"Moderate","Ozone","17-031-7002",14
+"Illinois","Cook","17","031","2019-04-26",49,"Good","Ozone","17-031-7002",14
+"Illinois","Cook","17","031","2019-04-27",47,"Good","Ozone","17-031-7002",17
+"Illinois","Cook","17","031","2019-04-28",46,"Good","Ozone","17-031-7002",15
+"Illinois","Cook","17","031","2019-04-29",46,"Good","PM2.5","17-031-6005",14
+"Illinois","Cook","17","031","2019-04-30",77,"Moderate","PM2.5","17-031-0052",17
+"Illinois","Cook","17","031","2019-05-01",43,"Good","PM2.5","17-031-6005",14
+"Illinois","Cook","17","031","2019-05-02",41,"Good","PM2.5","17-031-0001",14
+"Illinois","Cook","17","031","2019-05-03",36,"Good","Ozone","17-031-7002",16
+"Illinois","Cook","17","031","2019-05-04",55,"Moderate","PM2.5","17-031-4007",15
+"Illinois","Cook","17","031","2019-05-05",67,"Moderate","Ozone","17-031-4002",14
+"Illinois","Cook","17","031","2019-05-06",44,"Good","Ozone","17-031-7002",16
+"Illinois","Cook","17","031","2019-05-07",39,"Good","Ozone","17-031-7002",15
+"Illinois","Cook","17","031","2019-05-08",43,"Good","Ozone","17-031-7002",15
+"Illinois","Cook","17","031","2019-05-09",55,"Moderate","PM2.5","17-031-0076",16
+"Illinois","Cook","17","031","2019-05-10",41,"Good","Ozone","17-031-7002",16
+"Illinois","Cook","17","031","2019-05-11",44,"Good","Ozone","17-031-7002",15
+"Illinois","Cook","17","031","2019-05-12",44,"Good","Ozone","17-031-3103",17
+"Illinois","Cook","17","031","2019-05-13",44,"Good","Ozone","17-031-7002",15
+"Illinois","Cook","17","031","2019-05-14",50,"Good","PM10","17-031-1016",15
+"Illinois","Cook","17","031","2019-05-15",77,"Moderate","Ozone","17-031-0001",17
+"Illinois","Cook","17","031","2019-05-16",58,"Moderate","PM2.5","17-031-0076",14
+"Illinois","Cook","17","031","2019-05-17",48,"Good","PM2.5","17-031-0076",14
+"Illinois","Cook","17","031","2019-05-18",54,"Moderate","PM2.5","17-031-0076",15
+"Illinois","Cook","17","031","2019-05-19",54,"Moderate","PM2.5","17-031-0076",13
+"Illinois","Cook","17","031","2019-05-20",30,"Good","Ozone","17-031-7002",13
+"Illinois","Cook","17","031","2019-05-21",33,"Good","PM2.5","17-031-0076",16
+"Illinois","Cook","17","031","2019-05-22",61,"Moderate","Ozone","17-031-4201",15
+"Illinois","Cook","17","031","2019-05-23",43,"Good","Ozone","17-031-7002",14
+"Illinois","Cook","17","031","2019-05-24",54,"Moderate","PM2.5","17-031-0001",17
+"Illinois","Cook","17","031","2019-05-25",52,"Moderate","PM2.5","17-031-6005",14
+"Illinois","Cook","17","031","2019-05-26",54,"Moderate","PM2.5","17-031-0076",14
+"Illinois","Cook","17","031","2019-05-27",58,"Moderate","PM2.5","17-031-0076",17
+"Illinois","Cook","17","031","2019-05-28",53,"Moderate","PM2.5","17-031-0076",14
+"Illinois","Cook","17","031","2019-05-29",60,"Moderate","PM2.5","17-031-0076",15
+"Illinois","Cook","17","031","2019-05-30",84,"Moderate","Ozone","17-031-0032",17
+"Illinois","Cook","17","031","2019-05-31",61,"Moderate","Ozone","17-031-0032",14
+"Illinois","Cook","17","031","2019-06-01",65,"Moderate","PM2.5","17-031-0076",15
+"Illinois","Cook","17","031","2019-06-02",51,"Moderate","PM2.5","17-031-0001",17
+"Illinois","Cook","17","031","2019-06-03",36,"Good","PM2.5","17-031-0001",15
+"Illinois","Cook","17","031","2019-06-04",62,"Moderate","PM2.5","17-031-0076",15
+"Illinois","Cook","17","031","2019-06-05",115,"Unhealthy for Sensitive Groups","Ozone","17-031-0032",16
+"Illinois","Cook","17","031","2019-06-06",71,"Moderate","PM2.5","17-031-0076",14
+"Illinois","Cook","17","031","2019-06-07",74,"Moderate","Ozone","17-031-0001",14
+"Illinois","Cook","17","031","2019-06-08",58,"Moderate","PM2.5","17-031-0076",16
+"Illinois","Cook","17","031","2019-06-09",64,"Moderate","PM2.5","17-031-0076",14
+"Illinois","Cook","17","031","2019-06-10",57,"Moderate","PM2.5","17-031-0076",15
+"Illinois","Cook","17","031","2019-06-11",77,"Moderate","Ozone","17-031-7002",17
+"Illinois","Cook","17","031","2019-06-12",47,"Good","PM2.5","17-031-0076",15
+"Illinois","Cook","17","031","2019-06-13",40,"Good","PM2.5","17-031-0001",15
+"Illinois","Cook","17","031","2019-06-14",58,"Moderate","Ozone","17-031-4201",16
+"Illinois","Cook","17","031","2019-06-15",80,"Moderate","PM2.5","17-031-0076",15
+"Illinois","Cook","17","031","2019-06-16",67,"Moderate","PM2.5","17-031-0076",15
+"Illinois","Cook","17","031","2019-06-17",65,"Moderate","PM2.5","17-031-0076",16
+"Illinois","Cook","17","031","2019-06-18",70,"Moderate","PM2.5","17-031-0119",15
+"Illinois","Cook","17","031","2019-06-19",70,"Moderate","PM2.5","17-031-0076",16
+"Illinois","Cook","17","031","2019-06-20",55,"Moderate","PM2.5","17-031-0001",17
+"Illinois","Cook","17","031","2019-06-21",51,"Moderate","PM2.5","17-031-0119",16
+"Illinois","Cook","17","031","2019-06-22",56,"Moderate","PM2.5","17-031-0076",15
+"Illinois","Cook","17","031","2019-06-23",55,"Moderate","PM2.5","17-031-0076",17
+"Illinois","Cook","17","031","2019-06-24",47,"Good","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-06-25",51,"Moderate","Ozone","17-031-7002",15
+"Illinois","Cook","17","031","2019-06-26",105,"Unhealthy for Sensitive Groups","Ozone","17-031-1003",17
+"Illinois","Cook","17","031","2019-06-27",97,"Moderate","Ozone","17-031-4201",14
+"Illinois","Cook","17","031","2019-06-28",101,"Unhealthy for Sensitive Groups","Ozone","17-031-7002",14
+"Illinois","Cook","17","031","2019-06-29",129,"Unhealthy for Sensitive Groups","Ozone","17-031-0001",17
+"Illinois","Cook","17","031","2019-06-30",87,"Moderate","Ozone","17-031-0001",14
+"Illinois","Cook","17","031","2019-07-01",90,"Moderate","Ozone","17-031-7002",14
+"Illinois","Cook","17","031","2019-07-02",71,"Moderate","Ozone","17-031-7002",15
+"Illinois","Cook","17","031","2019-07-03",108,"Unhealthy for Sensitive Groups","Ozone","17-031-1601",14
+"Illinois","Cook","17","031","2019-07-04",93,"Moderate","PM2.5","17-031-0076",14
+"Illinois","Cook","17","031","2019-07-05",101,"Unhealthy for Sensitive Groups","Ozone","17-031-7002",17
+"Illinois","Cook","17","031","2019-07-06",76,"Moderate","PM2.5","17-031-0076",14
+"Illinois","Cook","17","031","2019-07-07",70,"Moderate","PM2.5","17-031-0076",14
+"Illinois","Cook","17","031","2019-07-08",71,"Moderate","Ozone","17-031-1601",17
+"Illinois","Cook","17","031","2019-07-09",129,"Unhealthy for Sensitive Groups","Ozone","17-031-0001",14
+"Illinois","Cook","17","031","2019-07-10",80,"Moderate","Ozone","17-031-7002",14
+"Illinois","Cook","17","031","2019-07-11",70,"Moderate","PM2.5","17-031-0022",16
+"Illinois","Cook","17","031","2019-07-12",93,"Moderate","Ozone","17-031-0001",14
+"Illinois","Cook","17","031","2019-07-13",105,"Unhealthy for Sensitive Groups","Ozone","17-031-0032",15
+"Illinois","Cook","17","031","2019-07-14",90,"Moderate","Ozone","17-031-0001",17
+"Illinois","Cook","17","031","2019-07-15",62,"Moderate","PM2.5","17-031-6005",14
+"Illinois","Cook","17","031","2019-07-16",61,"Moderate","PM2.5","17-031-0076",15
+"Illinois","Cook","17","031","2019-07-17",96,"Moderate","PM2.5","17-031-0022",16
+"Illinois","Cook","17","031","2019-07-18",59,"Moderate","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-07-19",63,"Moderate","PM2.5","17-031-0076",16
+"Illinois","Cook","17","031","2019-07-20",57,"Moderate","PM2.5","17-031-6005",17
+"Illinois","Cook","17","031","2019-07-21",49,"Good","PM2.5","17-031-0001",15
+"Illinois","Cook","17","031","2019-07-22",39,"Good","PM2.5","17-031-0001",15
+"Illinois","Cook","17","031","2019-07-23",51,"Moderate","PM2.5","17-031-3103",17
+"Illinois","Cook","17","031","2019-07-24",51,"Moderate","PM2.5","17-031-0001",13
+"Illinois","Cook","17","031","2019-07-25",97,"Moderate","Ozone","17-031-7002",13
+"Illinois","Cook","17","031","2019-07-26",74,"Moderate","Ozone","17-031-4201",18
+"Illinois","Cook","17","031","2019-07-27",71,"Moderate","Ozone","17-031-4002",14
+"Illinois","Cook","17","031","2019-07-28",71,"Moderate","Ozone","17-031-7002",13
+"Illinois","Cook","17","031","2019-07-29",59,"Moderate","PM2.5","17-031-3103",16
+"Illinois","Cook","17","031","2019-07-30",35,"Good","Ozone","17-031-1601",15
+"Illinois","Cook","17","031","2019-07-31",33,"Good","Ozone","17-031-7002",15
+"Illinois","Cook","17","031","2019-08-01",48,"Good","Ozone","17-031-1601",18
+"Illinois","Cook","17","031","2019-08-02",93,"Moderate","Ozone","17-031-1601",15
+"Illinois","Cook","17","031","2019-08-03",133,"Unhealthy for Sensitive Groups","Ozone","17-031-1601",15
+"Illinois","Cook","17","031","2019-08-04",71,"Moderate","Ozone","17-031-0001",18
+"Illinois","Cook","17","031","2019-08-05",80,"Moderate","Ozone","17-031-4002",15
+"Illinois","Cook","17","031","2019-08-06",50,"Good","Ozone","17-031-7002",15
+"Illinois","Cook","17","031","2019-08-07",55,"Moderate","PM2.5","17-031-0119",18
+"Illinois","Cook","17","031","2019-08-08",44,"Good","Ozone","17-031-4002",15
+"Illinois","Cook","17","031","2019-08-09",49,"Good","Ozone","17-031-4002",13
+"Illinois","Cook","17","031","2019-08-10",93,"Moderate","Ozone","17-031-4002",17
+"Illinois","Cook","17","031","2019-08-11",64,"Moderate","Ozone","17-031-4201",15
+"Illinois","Cook","17","031","2019-08-12",67,"Moderate","Ozone","17-031-7002",15
+"Illinois","Cook","17","031","2019-08-13",64,"Moderate","PM2.5","17-031-0001",17
+"Illinois","Cook","17","031","2019-08-14",53,"Moderate","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-08-15",46,"Good","PM2.5","17-031-0001",15
+"Illinois","Cook","17","031","2019-08-16",53,"Moderate","PM2.5","17-031-6005",17
+"Illinois","Cook","17","031","2019-08-17",55,"Moderate","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-08-18",50,"Good","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-08-19",58,"Moderate","Ozone","17-031-6005",17
+"Illinois","Cook","17","031","2019-08-20",56,"Moderate","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-08-21",55,"Moderate","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-08-22",45,"Good","PM2.5","17-031-0001",17
+"Illinois","Cook","17","031","2019-08-23",33,"Good","PM2.5","17-031-0001",14
+"Illinois","Cook","17","031","2019-08-24",38,"Good","PM2.5","17-031-0001",15
+"Illinois","Cook","17","031","2019-08-25",45,"Good","PM2.5","17-031-0057",18
+"Illinois","Cook","17","031","2019-08-26",48,"Good","PM2.5","17-031-6005",16
+"Illinois","Cook","17","031","2019-08-27",45,"Good","PM2.5","17-031-6005",14
+"Illinois","Cook","17","031","2019-08-28",32,"Good","Ozone","17-031-7002",17
+"Illinois","Cook","17","031","2019-08-29",48,"Good","PM2.5","17-031-6005",14
+"Illinois","Cook","17","031","2019-08-30",46,"Good","Ozone","17-031-7002",15
+"Illinois","Cook","17","031","2019-08-31",40,"Good","PM2.5","17-031-0001",18
+"Illinois","Cook","17","031","2019-09-01",55,"Moderate","PM2.5","17-031-0076",14
+"Illinois","Cook","17","031","2019-09-02",62,"Moderate","PM2.5","17-031-0076",14
+"Illinois","Cook","17","031","2019-09-03",52,"Moderate","PM2.5","17-031-6005",17
+"Illinois","Cook","17","031","2019-09-04",35,"Good","PM2.5","17-031-6005",14
+"Illinois","Cook","17","031","2019-09-05",42,"Good","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-09-06",48,"Good","PM2.5","17-031-6005",18
+"Illinois","Cook","17","031","2019-09-07",43,"Good","PM2.5","17-031-6005",14
+"Illinois","Cook","17","031","2019-09-08",37,"Good","PM2.5","17-031-6005",14
+"Illinois","Cook","17","031","2019-09-09",57,"Moderate","PM2.5","17-031-6005",18
+"Illinois","Cook","17","031","2019-09-10",61,"Moderate","PM2.5","17-031-6005",14
+"Illinois","Cook","17","031","2019-09-11",69,"Moderate","PM2.5","17-031-6005",14
+"Illinois","Cook","17","031","2019-09-12",53,"Moderate","PM2.5","17-031-0001",18
+"Illinois","Cook","17","031","2019-09-13",44,"Good","PM2.5","17-031-0119",15
+"Illinois","Cook","17","031","2019-09-14",45,"Good","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-09-15",52,"Moderate","PM2.5","17-031-6005",18
+"Illinois","Cook","17","031","2019-09-16",56,"Moderate","PM2.5","17-031-0076",15
+"Illinois","Cook","17","031","2019-09-17",61,"Moderate","PM2.5","17-031-0076",15
+"Illinois","Cook","17","031","2019-09-18",67,"Moderate","Ozone","17-031-1003",18
+"Illinois","Cook","17","031","2019-09-19",90,"Moderate","Ozone","17-031-0001",15
+"Illinois","Cook","17","031","2019-09-20",93,"Moderate","Ozone","17-031-0032",15
+"Illinois","Cook","17","031","2019-09-21",60,"Moderate","PM2.5","17-031-6005",17
+"Illinois","Cook","17","031","2019-09-22",57,"Moderate","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-09-23",40,"Good","Ozone","17-031-6005",15
+"Illinois","Cook","17","031","2019-09-24",52,"Moderate","PM10","17-031-1016",18
+"Illinois","Cook","17","031","2019-09-25",41,"Good","PM2.5","17-031-0076",15
+"Illinois","Cook","17","031","2019-09-26",40,"Good","NO2","17-031-3103",16
+"Illinois","Cook","17","031","2019-09-27",40,"Good","Ozone","17-031-0076",18
+"Illinois","Cook","17","031","2019-09-28",35,"Good","PM2.5","17-031-0076",15
+"Illinois","Cook","17","031","2019-09-29",47,"Good","PM2.5","17-031-0001",15
+"Illinois","Cook","17","031","2019-09-30",58,"Moderate","PM2.5","17-031-6005",18
+"Illinois","Cook","17","031","2019-10-01",59,"Moderate","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-10-02",35,"Good","PM2.5","17-031-0001",15
+"Illinois","Cook","17","031","2019-10-03",38,"Good","PM2.5","17-031-3103",16
+"Illinois","Cook","17","031","2019-10-04",33,"Good","Ozone","17-031-0076",15
+"Illinois","Cook","17","031","2019-10-05",36,"Good","PM2.5","17-031-0001",15
+"Illinois","Cook","17","031","2019-10-06",37,"Good","Ozone","17-031-0076",16
+"Illinois","Cook","17","031","2019-10-07",43,"Good","NO2","17-031-3103",14
+"Illinois","Cook","17","031","2019-10-08",52,"Moderate","NO2","17-031-3103",15
+"Illinois","Cook","17","031","2019-10-09",55,"Moderate","PM2.5","17-031-0052",17
+"Illinois","Cook","17","031","2019-10-10",54,"Moderate","PM2.5","17-031-6005",16
+"Illinois","Cook","17","031","2019-10-11",37,"Good","PM2.5","17-031-0001",15
+"Illinois","Cook","17","031","2019-10-12",40,"Good","Ozone","17-031-0076",16
+"Illinois","Cook","17","031","2019-10-13",36,"Good","Ozone","17-031-0076",14
+"Illinois","Cook","17","031","2019-10-14",36,"Good","NO2","17-031-3103",14
+"Illinois","Cook","17","031","2019-10-15",48,"Good","PM2.5","17-031-3103",16
+"Illinois","Cook","17","031","2019-10-16",42,"Good","NO2","17-031-3103",14
+"Illinois","Cook","17","031","2019-10-17",34,"Good","PM2.5","17-031-0119",14
+"Illinois","Cook","17","031","2019-10-18",53,"Moderate","PM2.5","17-031-6005",16
+"Illinois","Cook","17","031","2019-10-19",52,"Moderate","PM2.5","17-031-6005",14
+"Illinois","Cook","17","031","2019-10-20",62,"Moderate","PM2.5","17-031-0119",14
+"Illinois","Cook","17","031","2019-10-21",52,"Moderate","PM2.5","17-031-6005",17
+"Illinois","Cook","17","031","2019-10-22",35,"Good","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-10-23",44,"Good","PM10","17-031-1016",14
+"Illinois","Cook","17","031","2019-10-24",35,"Good","PM2.5","17-031-6005",17
+"Illinois","Cook","17","031","2019-10-25",54,"Moderate","PM2.5","17-031-0119",15
+"Illinois","Cook","17","031","2019-10-26",54,"Moderate","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-10-27",52,"Moderate","PM2.5","17-031-6005",16
+"Illinois","Cook","17","031","2019-10-28",56,"Moderate","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-10-29",37,"Good","PM2.5","17-031-6005",16
+"Illinois","Cook","17","031","2019-10-30",32,"Good","Ozone","17-031-7002",17
+"Illinois","Cook","17","031","2019-10-31",31,"Good","NO2","17-031-3103",14
+"Illinois","Cook","17","031","2019-11-01",44,"Good","PM2.5","17-031-0119",11
+"Illinois","Cook","17","031","2019-11-02",58,"Moderate","PM2.5","17-031-3103",13
+"Illinois","Cook","17","031","2019-11-03",27,"Good","NO2","17-031-6005",11
+"Illinois","Cook","17","031","2019-11-04",37,"Good","PM2.5","17-031-0119",11
+"Illinois","Cook","17","031","2019-11-05",56,"Moderate","PM2.5","17-031-3103",12
+"Illinois","Cook","17","031","2019-11-06",43,"Good","PM2.5","17-031-0119",10
+"Illinois","Cook","17","031","2019-11-07",29,"Good","PM2.5","17-031-0119",11
+"Illinois","Cook","17","031","2019-11-08",39,"Good","NO2","17-031-3103",13
+"Illinois","Cook","17","031","2019-11-09",48,"Good","PM2.5","17-031-4201",9
+"Illinois","Cook","17","031","2019-11-10",58,"Moderate","PM2.5","17-031-6005",9
+"Illinois","Cook","17","031","2019-11-11",29,"Good","Ozone","17-031-4201",13
+"Illinois","Cook","17","031","2019-11-12",37,"Good","NO2","17-031-0219",9
+"Illinois","Cook","17","031","2019-11-13",42,"Good","PM2.5","17-031-0119",9
+"Illinois","Cook","17","031","2019-11-14",65,"Moderate","PM2.5","17-031-3103",12
+"Illinois","Cook","17","031","2019-11-15",76,"Moderate","PM2.5","17-031-0119",8
+"Illinois","Cook","17","031","2019-11-16",69,"Moderate","PM2.5","17-031-6005",8
+"Illinois","Cook","17","031","2019-11-17",67,"Moderate","PM2.5","17-031-3103",13
+"Illinois","Cook","17","031","2019-11-18",69,"Moderate","PM2.5","17-031-6005",9
+"Illinois","Cook","17","031","2019-11-19",71,"Moderate","PM2.5","17-031-6005",10
+"Illinois","Cook","17","031","2019-11-20",73,"Moderate","PM2.5","17-031-6005",11
+"Illinois","Cook","17","031","2019-11-21",57,"Moderate","PM2.5","17-031-6005",11
+"Illinois","Cook","17","031","2019-11-22",41,"Good","PM2.5","17-031-6005",10
+"Illinois","Cook","17","031","2019-11-23",76,"Moderate","PM2.5","17-031-3103",15
+"Illinois","Cook","17","031","2019-11-24",55,"Moderate","PM2.5","17-031-6005",12
+"Illinois","Cook","17","031","2019-11-25",64,"Moderate","PM2.5","17-031-6005",12
+"Illinois","Cook","17","031","2019-11-26",67,"Moderate","PM2.5","17-031-0119",14
+"Illinois","Cook","17","031","2019-11-27",45,"Good","PM2.5","17-031-6005",12
+"Illinois","Cook","17","031","2019-11-28",24,"Good","PM2.5","17-031-6005",12
+"Illinois","Cook","17","031","2019-11-29",57,"Moderate","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-11-30",60,"Moderate","PM2.5","17-031-6005",12
+"Illinois","Cook","17","031","2019-12-01",44,"Good","PM2.5","17-031-6005",11
+"Illinois","Cook","17","031","2019-12-02",33,"Good","NO2","17-031-3103",13
+"Illinois","Cook","17","031","2019-12-03",44,"Good","PM2.5","17-031-6005",11
+"Illinois","Cook","17","031","2019-12-04",38,"Good","NO2","17-031-3103",11
+"Illinois","Cook","17","031","2019-12-05",55,"Moderate","PM2.5","17-031-1016",12
+"Illinois","Cook","17","031","2019-12-06",45,"Good","PM2.5","17-031-0119",11
+"Illinois","Cook","17","031","2019-12-07",53,"Moderate","PM2.5","17-031-0119",11
+"Illinois","Cook","17","031","2019-12-08",69,"Moderate","PM2.5","17-031-3103",13
+"Illinois","Cook","17","031","2019-12-09",53,"Moderate","PM2.5","17-031-4007",10
+"Illinois","Cook","17","031","2019-12-10",36,"Good","PM2.5","17-031-0119",11
+"Illinois","Cook","17","031","2019-12-11",67,"Moderate","PM2.5","17-031-0119",15
+"Illinois","Cook","17","031","2019-12-12",52,"Moderate","PM10","17-031-1016",12
+"Illinois","Cook","17","031","2019-12-13",64,"Moderate","PM10","17-031-1016",11
+"Illinois","Cook","17","031","2019-12-14",81,"Moderate","PM2.5","17-031-3103",12
+"Illinois","Cook","17","031","2019-12-15",62,"Moderate","PM2.5","17-031-0119",10
+"Illinois","Cook","17","031","2019-12-16",60,"Moderate","PM2.5","17-031-0119",10
+"Illinois","Cook","17","031","2019-12-17",78,"Moderate","PM2.5","17-031-3301",15
+"Illinois","Cook","17","031","2019-12-18",42,"Good","PM10","17-031-1016",10
+"Illinois","Cook","17","031","2019-12-19",67,"Moderate","PM2.5","17-031-0119",10
+"Illinois","Cook","17","031","2019-12-20",90,"Moderate","PM2.5","17-031-4007",13
+"Illinois","Cook","17","031","2019-12-21",68,"Moderate","PM2.5","17-031-0119",10
+"Illinois","Cook","17","031","2019-12-22",60,"Moderate","PM2.5","17-031-6005",10
+"Illinois","Cook","17","031","2019-12-23",71,"Moderate","PM2.5","17-031-0119",15
+"Illinois","Cook","17","031","2019-12-24",66,"Moderate","PM2.5","17-031-6005",11
+"Illinois","Cook","17","031","2019-12-25",53,"Moderate","PM2.5","17-031-6005",11
+"Illinois","Cook","17","031","2019-12-26",57,"Moderate","PM2.5","17-031-6005",13
+"Illinois","Cook","17","031","2019-12-27",61,"Moderate","PM2.5","17-031-0119",12
+"Illinois","Cook","17","031","2019-12-28",88,"Moderate","PM2.5","17-031-4007",12
+"Illinois","Cook","17","031","2019-12-29",50,"Good","PM2.5","17-031-6005",15
+"Illinois","Cook","17","031","2019-12-30",28,"Good","PM2.5","17-031-0057",12
+"Illinois","Cook","17","031","2019-12-31",30,"Good","PM2.5","17-031-0057",12
+"New York","Kings","36","047","2019-01-01",38,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-01-02",40,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-01-03",38,"Good","PM2.5","36-047-0052",3
+"New York","Kings","36","047","2019-01-04",55,"Moderate","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-01-05",39,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-01-06",44,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-01-07",26,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-01-08",35,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-01-09",38,"Good","PM2.5","36-047-0052",3
+"New York","Kings","36","047","2019-01-10",29,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-01-11",33,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-01-12",32,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-01-13",33,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-01-14",38,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-01-15",53,"Moderate","PM2.5","36-047-0052",3
+"New York","Kings","36","047","2019-01-16",53,"Moderate","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-01-17",24,"Good","PM2.5","36-047-0052",1
+"New York","Kings","36","047","2019-01-18",61,"Moderate","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-01-19",34,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-01-20",23,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-01-21",30,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-01-22",31,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-01-23",29,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-01-24",24,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-01-25",35,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-01-26",33,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-01-27",33,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-01-28",38,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-01-29",40,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-01-30",38,"Good","PM2.5","36-047-0052",3
+"New York","Kings","36","047","2019-01-31",33,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-02-01",40,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-02-02",66,"Moderate","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-02-03",62,"Moderate","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-02-04",62,"Moderate","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-02-05",64,"Moderate","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-02-06",24,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-02-07",25,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-02-08",24,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-02-09",24,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-02-10",22,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-02-11",48,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-02-12",15,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-02-13",30,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-02-14",31,"Good","PM2.5","36-047-0052",3
+"New York","Kings","36","047","2019-02-15",39,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-02-16",27,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-02-17",22,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-02-18",30,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-02-19",19,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-02-20",33,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-02-21",23,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-02-22",39,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-02-23",28,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-02-24",12,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-02-25",30,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-02-26",24,"Good","PM2.5","36-047-0052",3
+"New York","Kings","36","047","2019-02-27",14,"Good","PM2.5","36-047-0052",1
+"New York","Kings","36","047","2019-02-28",31,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-03-01",45,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-03-02",33,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-03-03",40,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-03-04",27,"Good","PM2.5","36-047-0052",3
+"New York","Kings","36","047","2019-03-05",29,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-03-06",29,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-03-07",48,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-03-08",36,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-03-09",49,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-03-10",46,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-03-11",28,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-03-12",26,"Good","PM2.5","36-047-0118",1
+"New York","Kings","36","047","2019-03-13",42,"Good","PM2.5","36-047-0122",2
+"New York","Kings","36","047","2019-03-14",22,"Good","PM2.5","36-047-0118",1
+"New York","Kings","36","047","2019-03-15",40,"Good","PM2.5","36-047-0118",1
+"New York","Kings","36","047","2019-03-16",12,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-03-17",11,"Good","PM2.5","36-047-0118",1
+"New York","Kings","36","047","2019-03-18",19,"Good","PM2.5","36-047-0118",1
+"New York","Kings","36","047","2019-03-19",27,"Good","PM2.5","36-047-0052",3
+"New York","Kings","36","047","2019-03-20",28,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-03-21",18,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-03-22",10,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-03-23",15,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-03-24",15,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-03-25",34,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-03-26",15,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-03-27",10,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-03-28",28,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-03-29",34,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-03-30",34,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-03-31",33,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-04-01",15,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-04-02",15,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-04-03",24,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-04-04",19,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-04-05",19,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-04-06",28,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-04-07",30,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-04-08",31,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-04-09",45,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-04-10",13,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-04-11",16,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-04-12",33,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-04-13",40,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-04-14",9,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-04-15",14,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-04-16",12,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-04-17",9,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-04-18",27,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-04-19",38,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-04-20",24,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-04-21",25,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-04-22",25,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-04-23",25,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-04-24",19,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-04-25",10,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-04-26",13,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-04-27",13,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-04-28",17,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-04-29",14,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-04-30",35,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-05-01",11,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-05-02",35,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-05-03",53,"Moderate","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-05-04",35,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-05-05",4,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-05-06",18,"Good","PM2.5","36-047-0122",2
+"New York","Kings","36","047","2019-05-07",20,"Good","PM2.5","36-047-0052",1
+"New York","Kings","36","047","2019-05-08",13,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-05-09",27,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-05-10",21,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-05-11",13,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-05-12",12,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-05-13",6,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-05-14",6,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-05-15",19,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-05-16",29,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-05-17",40,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-05-18",23,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-05-19",29,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-05-20",31,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-05-21",11,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-05-22",12,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-05-23",15,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-05-24",20,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-05-25",6,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-05-26",28,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-05-27",22,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-05-28",27,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-05-29",13,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-05-30",35,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-05-31",32,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-06-01",40,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-06-02",47,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-06-03",10,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-06-04",8,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-06-05",52,"Moderate","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-06-06",25,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-06-07",33,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-06-08",30,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-06-09",9,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-06-10",10,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-06-11",15,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-06-12",8,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-06-13",1,"Good","PM2.5","36-047-0052",1
+"New York","Kings","36","047","2019-06-14",18,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-06-15",18,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-06-16",33,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-06-17",44,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-06-18",22,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-06-19",10,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-06-20",33,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-06-21",8,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-06-22",5,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-06-23",19,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-06-24",34,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-06-25",33,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-06-26",41,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-06-27",20,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-06-28",26,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-06-29",52,"Moderate","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-06-30",8,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-07-01",10,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-07-02",38,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-07-03",54,"Moderate","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-07-04",66,"Moderate","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-07-05",45,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-07-06",23,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-07-07",26,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-07-08",40,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-07-09",38,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-07-10",51,"Moderate","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-07-11",37,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-07-12",15,"Good","PM2.5","36-047-0052",1
+"New York","Kings","36","047","2019-07-13",19,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-07-14",33,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-07-15",14,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-07-16",43,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-07-17",56,"Moderate","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-07-18",24,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-07-19",45,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-07-20",55,"Moderate","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-07-21",53,"Moderate","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-07-22",14,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-07-23",17,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-07-24",19,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-07-25",28,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-07-26",45,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-07-27",30,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-07-28",37,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-07-29",59,"Moderate","PM2.5","36-047-0052",3
+"New York","Kings","36","047","2019-07-30",64,"Moderate","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-07-31",42,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-08-01",40,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-08-02",33,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-08-03",16,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-08-04",35,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-08-05",22,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-08-06",31,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-08-07",41,"Good","PM2.5","36-047-0122",2
+"New York","Kings","36","047","2019-08-08",28,"Good","PM2.5","36-047-0118",1
+"New York","Kings","36","047","2019-08-09",20,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-08-10",16,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-08-11",10,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-08-12",30,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-08-13",54,"Moderate","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-08-14",62,"Moderate","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-08-15",30,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-08-16",37,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-08-17",17,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-08-18",21,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-08-19",45,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-08-20",23,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-08-21",31,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-08-22",36,"Good","PM2.5","36-047-0122",2
+"New York","Kings","36","047","2019-08-23",17,"Good","PM2.5","36-047-0118",1
+"New York","Kings","36","047","2019-08-24",9,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-08-25",15,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-08-26",15,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-08-27",17,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-08-28",25,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-08-29",13,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-08-30",34,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-08-31",23,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-09-01",10,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-09-02",15,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-09-03",31,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-09-04",33,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-09-05",5,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-09-06",20,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-09-07",9,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-09-08",24,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-09-09",23,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-09-10",12,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-09-11",35,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-09-12",45,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-09-13",6,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-09-14",15,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-09-15",28,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-09-16",35,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-09-17",10,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-09-18",18,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-09-19",16,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-09-20",32,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-09-21",46,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-09-22",48,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-09-23",41,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-09-24",14,"Good","PM2.5","36-047-0122",2
+"New York","Kings","36","047","2019-09-25",23,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-09-26",29,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-09-27",27,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-09-28",23,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-09-29",24,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-09-30",17,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-10-01",23,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-10-02",40,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-10-03",16,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-10-04",13,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-10-05",27,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-10-06",19,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-10-07",16,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-10-08",14,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-10-09",20,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-10-10",15,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-10-11",16,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-10-12",20,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-10-13",18,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-10-14",26,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-10-15",27,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-10-16",13,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-10-17",9,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-10-18",13,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-10-19",25,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-10-20",32,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-10-21",33,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-10-22",11,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-10-23",19,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-10-24",29,"Good","PM2.5","36-047-0052",3
+"New York","Kings","36","047","2019-10-25",41,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-10-26",27,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-10-27",19,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-10-28",16,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-10-29",13,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-10-30",23,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-10-31",18,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-01",14,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-02",20,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-11-03",23,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-04",21,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-05",34,"Good","PM2.5","36-047-0052",3
+"New York","Kings","36","047","2019-11-06",29,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-11-07",22,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-08",12,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-11-09",11,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-10",35,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-11",61,"Moderate","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-11-12",30,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-13",23,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-14",31,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-11-15",45,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-16",25,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-17",17,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-11-18",20,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-19",26,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-20",27,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-11-21",33,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-22",32,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-23",18,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-11-24",20,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-25",44,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-26",55,"Moderate","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-11-27",41,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-28",12,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-11-29",13,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-11-30",19,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-12-01",16,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-12-02",17,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-12-03",22,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-12-04",38,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-12-05",30,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-12-06",28,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-12-07",23,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-12-08",22,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-12-09",21,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-12-10",39,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-12-11",28,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-12-12",51,"Moderate","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-12-13",41,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-12-14",29,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-12-15",28,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-12-16",42,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-12-17",25,"Good","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-12-18",28,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-12-19",58,"Moderate","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-12-20",45,"Good","PM2.5","36-047-0118",3
+"New York","Kings","36","047","2019-12-21",43,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-12-22",61,"Moderate","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-12-23",75,"Moderate","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-12-24",47,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-12-25",40,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-12-26",64,"Moderate","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-12-27",40,"Good","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-12-28",54,"Moderate","PM2.5","36-047-0118",2
+"New York","Kings","36","047","2019-12-29",54,"Moderate","PM2.5","36-047-0122",3
+"New York","Kings","36","047","2019-12-30",13,"Good","PM2.5","36-047-0052",2
+"New York","Kings","36","047","2019-12-31",28,"Good","PM2.5","36-047-0118",2
